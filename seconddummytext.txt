@@ -1,1 +1,1 @@
-hola mundo
+hola mundo. Este es un ejemplo de archivo usado en un repo.
